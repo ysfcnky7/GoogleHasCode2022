@@ -1,0 +1,7 @@
+D:\projects\visualstudio\HashCode\HashCode\HashCode\bin\Debug\HashCode.exe.config
+D:\projects\visualstudio\HashCode\HashCode\HashCode\bin\Debug\HashCode.exe
+D:\projects\visualstudio\HashCode\HashCode\HashCode\bin\Debug\HashCode.pdb
+D:\projects\visualstudio\HashCode\HashCode\HashCode\obj\Debug\HashCode.csproj.CoreCompileInputs.cache
+D:\projects\visualstudio\HashCode\HashCode\HashCode\obj\Debug\HashCode.exe
+D:\projects\visualstudio\HashCode\HashCode\HashCode\obj\Debug\HashCode.pdb
+D:\projects\visualstudio\HashCode\HashCode\HashCode\obj\Debug\HashCode.csproj.AssemblyReference.cache
